@@ -25,32 +25,30 @@ Hi, I'm **Umang Mehar** — a backend developer passionate about building clean 
 </p>
 
 ---
-##  Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" title="C#" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" />
+
+  <!-- Backend / Frameworks -->
+  <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot" />
+  <img src="https://static-00.iconduck.com/assets.00/apache-kafka-icon-2048x2048-bpdlsk8x.png" title="Apache Kafka" width="48" />
+
+  <!-- Cloud -->
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" />
 
   <!-- Frontend -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" />
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" />
-  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular" />
-  <img src="https://img.icons8.com/officel/48/react.png" title="React" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" />
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" title="Tailwind CSS" />
 
-  <!-- Backend / Frameworks -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title="ASP.NET Core" height="40px" />
-  <img src="https://avatars.githubusercontent.com/u/17161084?s=200&v=4" title="Dapper" height="40px" />
-
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" />
+  <!-- Database -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+
+</p>
 
   <!-- DevOps / Tools -->
   <img src="https://img.icons8.com/color/48/git.png" title="Git" />
